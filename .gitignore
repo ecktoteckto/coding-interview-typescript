@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+.serverless/
+coverage
+.warmup/
+.idea/
+.run/
+dist/
+.webpack/
